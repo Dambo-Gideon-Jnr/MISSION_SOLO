@@ -254,7 +254,7 @@ Confirmation or clear failure message
 ## Final Challenge
 
 ```text
-Custo
+Customer
 ↓
 Program
 ↓
